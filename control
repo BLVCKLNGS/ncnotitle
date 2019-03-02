@@ -1,0 +1,10 @@
+Package: com.twickd.ncnotitle
+Name: NCNoTitle
+Depends: mobilesubstrate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Remove the annoying Notification Center title!
+Maintainer: Hugo
+Author: Hugo
+Section: Tweaks
+Depiction: https://twickd.github.io/depictions/?p=com.twickd.ncnotitle
